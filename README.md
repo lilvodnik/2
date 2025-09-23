@@ -1,16 +1,22 @@
 # ui_practice_pozdnyakova
 
-A new Flutter project.
+Как я меняла цвета и внешний вид:
+Цвета:
+1. Использовала готовые цвета типа Colors.lightblue
+2. Также делала свои цвета
 
-## Getting Started
+Текст:
+1. Менялa размер букв 
+2. Делалa текст жирным или обычным
+3. Добавлялa разные цвета для текста
 
-This project is a starting point for a Flutter application.
+Отступы:
+1. Использовалa SizedBox чтобы делать пробелы между элементами
 
-A few resources to get you started if this is your first Flutter project:
+С какими трудностями столкнулся
+1.Элементы слипались поэтому я добавила SizedBox между ними.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1512" height="982" alt="Снимок экрана 2025-09-23 в 11 57 34 AM" src="https://github.com/user-attachments/assets/097b21d9-0c0e-4d13-b140-21fa1f4c8131" />
+<img width="1512" height="982" alt="Снимок экрана 2025-09-23 в 11 58 02 AM" src="https://github.com/user-attachments/assets/7d8d4558-f465-44f6-b752-7c3eaa8a2953" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
