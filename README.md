@@ -1,16 +1,5 @@
-# flutter_create_state_practice_pozdnyakova
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Скриншоты контрольный точек:
+<img width="1512" height="982" alt="Снимок экрана 2025-10-07 в 12 06 22 PM" src="https://github.com/user-attachments/assets/cde79ec1-f3ff-4e8b-bea1-fe5aaa5755d7" />
+<img width="807" height="629" alt="Снимок экрана 2025-10-07 в 12 06 35 PM" src="https://github.com/user-attachments/assets/f0d57ad7-7345-41e4-9f42-c36a7af67a54" />
+<img width="800" height="626" alt="Снимок экрана 2025-10-07 в 12 06 46 PM" src="https://github.com/user-attachments/assets/f8898917-99e8-453d-9ac3-f9ef32c311a1" />
+<img width="811" height="636" alt="Снимок экрана 2025-10-07 в 12 06 56 PM" src="https://github.com/user-attachments/assets/daf90c40-2ebb-4ad9-b86b-38923e13cecb" />
